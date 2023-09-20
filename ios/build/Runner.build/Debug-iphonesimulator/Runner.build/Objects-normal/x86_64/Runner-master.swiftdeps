@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f707f282706f3c418b4121cc3e97c07bb64de35511f221275369674fda1f064d"
+build_start_time: [1690314314, 403454000]
+build_end_time: [1690314314, 527455000]
+inputs:
+  ? "/Users/pedrohenrique/Developer/workspace/flutter-workspace/personal-projects/alura/flutter_firebase_firestore_2/ios/Runner/AppDelegate.swift"
+  : !private [1674220298, 0]
